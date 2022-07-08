@@ -149,6 +149,7 @@ string ColumnDivision(string x, string y)
 int main()
 {
 	setlocale(LC_ALL, "rus");
+	
 	string delimoe, delitel, ostatok = "0";
 	cout << "Введите делимое: " << endl;
 	cin >> delimoe;
